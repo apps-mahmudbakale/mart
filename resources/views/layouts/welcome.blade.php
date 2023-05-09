@@ -12,7 +12,7 @@
 
     <title>Caliphate Mart</title>
 
-    <link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link href="{{asset('favicon.png')}}" rel="shortcut icon" type="image/png">
 
     <!-- jQuery -->
     <script src="js/jquery-2.0.0.min.js" type="text/javascript"></script>
