@@ -25,7 +25,7 @@
                         </div>
                     </form> <!-- search-wrap .end// -->
                 </div> <!-- col.// -->
-                {{-- <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="widgets-wrap float-md-right">
                         <div class="widget-header mr-3">
                             <a href="#" class="widget-view">
@@ -62,7 +62,7 @@
                             </a>
                         </div>
                     </div> <!-- widgets-wrap.// -->
-                </div> <!-- col.// --> --}}
+                </div> <!-- col.// -->
             </div> <!-- row.// -->
         </div> <!-- container.// -->
     </section> <!-- header-main .// -->
